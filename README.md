@@ -16,7 +16,7 @@ Hexflate adalah aplikasi mobile berbasis Flutter yang dibuat untuk sistem Otomax
 
 ## 📦 **Instalasi Backend**
 
-Untuk panduan lengkap instalasi backend, silakan kunjungi: [Hexflate Install Wiki](https://github.com/riskirills66/hexflateinstall/wiki/Hexflate-Install-Wiki)
+Untuk panduan lengkap instalasi backend, silakan kunjungi: [Hexflate Install Wiki](https://github.com/riskirills66/hexflateinstall/wiki)
 
 ---
 
