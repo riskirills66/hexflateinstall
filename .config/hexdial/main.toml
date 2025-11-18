@@ -7,8 +7,6 @@ blocked_referrals = []
 
 [combotrx]
 outbox_like_pattern = "%{product}.{destination}%Sukses%"
-pesan_format_no_val = "{trxid}.{product}.{destination}.{pin}"
-pesan_format_with_val = "{trxid}.{product}.{destination}.{val}.{pin}"
 sdh_pernah_filter = "%sdh pernah%"
 
 [trx]
