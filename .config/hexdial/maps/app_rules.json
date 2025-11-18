@@ -574,7 +574,6 @@
   "registerDownlineContactDescription": "Masukkan nomor HP (wajib) dan email (opsional) untuk downline.",
   "registerDownlinePinLabel": "PIN",
   "settingsThemeDark": "Gelap",
-  "customerServiceContactSheetEmailCopiedMessage": "Email telah disalin ke clipboard",
   "editUserInfoStoreNameLabel": "Nama Toko",
   "kodeReferalWizardSuccessMessage": "Kode referal berhasil dibuat!",
   "historyMonthMay": "Mei",
@@ -824,7 +823,6 @@
   "profileVerificationNotVerified": "Belum Verifikasi",
   "loginBackToExitMessage": "Tekan kembali sekali lagi untuk keluar",
   "jaringanTitle": "Jaringan & Referral",
-  "transactionCopyToClipboardMessage": "{label} disalin ke clipboard",
   "poinExchangeLoadPointsError": "Gagal memuat poin",
   "registerDownlineNetworkErrorTitle": "Kesalahan Jaringan",
   "registerReferralCheckFailedMessage": "Gagal memeriksa referral",
@@ -835,7 +833,6 @@
   "downlineListEmptySubtitle": "Belum ada downline yang terdaftar",
   "registerDownlinePinConfirmRequired": "Konfirmasi PIN wajib diisi",
   "poinExchangeHadiahFailedError": "Gagal menukar hadiah",
-  "depositTicketAmountCopiedMessage": "Nominal disalin",
   "registerDownlineEmailExistsTitle": "Email Sudah Terdaftar",
   "kodeReferalWizardMarkupStepTitle": "Pilih Markup",
   "historyFilterAll": "Semua",
@@ -915,7 +912,6 @@
   "permissionIntroCameraTitle": "Kamera",
   "historyEmptyTitle": "Belum Ada Riwayat",
   "registerDownlinePhoneExistsTitle": "Nomor HP Sudah Terdaftar",
-  "depositTicketBankCopiedMessage": "{bank} disalin",
   "historyRefundLabel": "Refund",
   "productTransactionStatusCheckErrorMessage": "Terjadi kesalahan saat memeriksa status transaksi",
   "historySearchDestinationTitle": "Cari Tujuan",
@@ -978,10 +974,7 @@
   "transactionPointsLabel": "{points}",
   "transactionSerialNumberLabel": "SN",
   "transaction_print_receipt_button": "Cetak Struk",
-  "transaction_copy_to_clipboard_message": "Telah disalin ke clipboard",
-  "transactionSerialNumberCopiedMessage": "Telah disalin ke clipboard",
   "customerServiceContactSheetInAppChatTitle": "Hubungi via chat",
   "customerServiceContactSheetInAppChatSubtitle": "Chat langsung dengan customer service",
-  "notificationBottomSheetCopyTextButton": "Salin Notifikasi",
-  "notificationBottomSheetCopiedToClipboardMessage": "Notifikasi telah disalin"
+  "notificationBottomSheetCopyTextButton": "Salin Notifikasi"
 }
