@@ -998,5 +998,6 @@
   "transactionSerialNumberCopiedMessage": "SN Copied to clipboard",
   "customerServiceContactSheetInAppChatTitle": "Hubungi via chat",
   "customerServiceContactSheetInAppChatSubtitle": "Chat langsung dengan customer service",
-  "notificationBottomSheetCopyTextButton": "Salin Notifikasi"
+  "notificationBottomSheetCopyTextButton": "Salin Notifikasi",
+  "notificationBottomSheetCopiedToClipboardMessage": "Notifikasi telah disalin"
 }
