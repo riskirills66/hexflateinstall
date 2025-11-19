@@ -1,5 +1,5 @@
 [[configs]]
-dash = "true"
+dash = true
 highlight_key = "token"
 info_text = "Info Hubungi Call Center 123 Atau Hubungi PLN Terdekat"
 name = "TOKEN"
@@ -12,7 +12,7 @@ receipt_title = "STRUK PEMBELIAN LISTRIK PRABAYAR"
 regex = '(?P<token>[\dO-]+)/(?P<nama_pelanggan>[^/]+(?:/[^/]+)?)/(?P<golongan>[^/]+)/(?P<daya>[O0]*\d+VA)/(?P<kwh>[\d,-]+(?:[kK][wW][hH])?)'
 
 [[configs]]
-dash = "false"
+dash = false
 highlight_key = "ref"
 info_text = "Info Hubungi Kantor PDAM Terdekat"
 name = "PDAMPDG"
