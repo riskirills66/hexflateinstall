@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/riskirills66/hexflateinstall/refs/heads/assets/1024.png" alt="Hexflate Icon" width="300">
+  <img src="https://raw.githubusercontent.com/riskirills66/hexflateinstall/refs/heads/assets/1024.png" alt="Hexaflate Icon" width="300">
 </p>
 
-# 🚀 **Hexflate - Solusi Aplikasi Mobile untuk Sistem Otomax**
+# 🚀 **Hexaflate - Solusi Aplikasi Mobile untuk Sistem Otomax**
 
-## 📱 **Tentang Hexflate**
+## 📱 **Tentang Hexaflate**
 
-Hexflate adalah aplikasi mobile berbasis Flutter yang dibuat untuk sistem Otomax. Aplikasi ini dirancang agar ringan, cepat, dan mudah digunakan.
+Hexaflate adalah aplikasi mobile berbasis Flutter yang dibuat untuk sistem Otomax. Aplikasi ini dirancang agar ringan, cepat, dan mudah digunakan.
 
-### 🏗️ **Hexflate Built**
+### 🏗️ **Hexaflate Built**
 
 - **Frontend**: Flutter (Cross-platform mobile app)
 - **Backend**: Rust-Axum (High-performance server)
@@ -20,11 +20,11 @@ Hexflate adalah aplikasi mobile berbasis Flutter yang dibuat untuk sistem Otomax
 
 ## 📦 **Instalasi Backend**
 
-Untuk panduan lengkap instalasi backend, silakan kunjungi: [Hexflate Install Wiki](https://github.com/riskirills66/hexflateinstall/wiki)
+Untuk panduan lengkap instalasi backend, silakan kunjungi: [Hexaflate Install Wiki](https://github.com/riskirills66/hexflateinstall/wiki)
 
 ---
 
-## 🎯 **Fitur Unggulan Hexflate**
+## 🎯 **Fitur Unggulan Hexaflate**
 
 ### 🔐 **1. Keamanan Seperti E-Wallet**
 
@@ -106,7 +106,7 @@ Untuk panduan lengkap instalasi backend, silakan kunjungi: [Hexflate Install Wik
 
 - **Kontrol penuh atas sistem** - tidak perlu sewa VPS/Data Center tambahan
 
-## ✅ **Keuntungan Memilih Hexflate**
+## ✅ **Keuntungan Memilih Hexaflate**
 
 ### 🚀 **Teknologi Terdepan**
 
@@ -127,14 +127,21 @@ Untuk panduan lengkap instalasi backend, silakan kunjungi: [Hexflate Install Wik
 
 ## 🏁 **Penutup**
 
-**Hexflate** adalah solusi lengkap untuk transformasi digital sistem Otomax Anda. Dengan teknologi terdepan, keamanan maksimal, dan fleksibilitas biaya yang tinggi, kami siap mendukung pertumbuhan bisnis Anda.
+**Hexaflate** adalah solusi lengkap untuk transformasi digital sistem Otomax Anda. Dengan teknologi terdepan, keamanan maksimal, dan fleksibilitas biaya yang tinggi, kami siap mendukung pertumbuhan bisnis Anda.
 
 ### 🎯 **Mulai Sekarang**
 
-Pilih kebutuhan bisnis Anda dan mulai transformasi digital bersama Hexflate. Tim kami siap membantu dengan simulasi, perbandingan, atau draft kontrak.
+Pilih kebutuhan bisnis Anda dan mulai transformasi digital bersama Hexaflate. Tim kami siap membantu dengan simulasi, perbandingan, atau draft kontrak.
 
 ---
 
+## **Kontak untuk Demo / Bantuan**
+
+Jika membutuhkan **demo**, **installasi bantuan**, atau **custom app build**, silakan hubungi:
+
+- **Telegram/WhatsApp:** +6285128074595
+- **Website:** [https://hexaflate.com/](https://hexaflate.com)
+
 **Hormat kami,**  
-**Tim Hexflate**  
+**Tim Hexaflate**  
 _Revolusi Digital Otomax_
