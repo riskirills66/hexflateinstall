@@ -1,5 +1,0 @@
-[CEKTDC]
-pattern = '# (?P<kode>\d+)\|(?P<nama>[^|]+)\|(?P<harga_final>\d+)'
-
-[CEKTDT]
-pattern = '# (?P<kode>\d+)\|(?P<nama>[^|]+)\|(?P<harga_final>\d+)'
