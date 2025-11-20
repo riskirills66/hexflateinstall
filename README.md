@@ -5,7 +5,7 @@
 Hexflate adalah aplikasi mobile berbasis Flutter yang dibuat untuk sistem Otomax. Aplikasi ini dirancang agar ringan, cepat, dan mudah digunakan.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/riskirills66/hexflateinstall/refs/heads/main/assets/1024.png" alt="Hexflate Icon" width="300">
+  <img src="https://raw.githubusercontent.com/riskirills66/hexflateinstall/refs/heads/assets/1024.png" alt="Hexflate Icon" width="300">
 </p>
 
 ### 🏗️ **Hexflate Built**
